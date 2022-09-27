@@ -2,7 +2,7 @@
 I'm Justin, a Web Developer and Shopify Expert from 🇬🇧 <strong> United Kingdom </strong>
 
 #### Here are some things I code with
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/js.svg">
+<!-- <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/js.svg"> -->
 <hr>
 
 <!--
