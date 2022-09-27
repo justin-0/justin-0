@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! Welcome to my page 👋
+I'm Justin, a Web Developer and Shopify Expert from 🇬🇧
+
+## Here are some things I could with
 <hr>
 
 <!--
