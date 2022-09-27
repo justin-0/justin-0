@@ -1,7 +1,7 @@
-### Hi! Welcome to my page 👋
+## Hi! Welcome to my page 👋
 I'm Justin, a Web Developer and Shopify Expert from 🇬🇧
 
-## Here are some things I could with
+#### Here are some things I code with
 <hr>
 
 <!--
