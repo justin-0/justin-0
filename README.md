@@ -6,5 +6,5 @@ I'm Justin, a Frontend Developer using React 🇬🇧 <strong> United Kingdom </
 <img src="https://img.shields.io/badge/-HTML-orange">
 <img src="https://img.shields.io/badge/-CSS-blue">
 <img src="https://img.shields.io/badge/-JavaScript-yellow">
-<img src="https://img.shields.io/badge/-Liquid-blue">
+  <img src="https://img.shields.io/badge/-React-blue>
 </p>
