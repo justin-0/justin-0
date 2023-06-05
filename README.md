@@ -1,5 +1,5 @@
 ## Hi! Welcome to my page 👋
-I'm Justin, a Web Developer and Shopify Expert from 🇬🇧 <strong> United Kingdom </strong>
+I'm Justin, a Frontend Developer using React 🇬🇧 <strong> United Kingdom </strong>
 
 #### Here are some things I code with
 <p>
