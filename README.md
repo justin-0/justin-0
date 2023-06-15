@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">I'm Justin O'Connell, a Frontend Developer using React, Next & TypeScript from 🇬🇧 United Kingdom</h3>
+<h1 align="left">Hi 👋, I'm Justin</h1>
+<h3 align="left">I'm Justin O'Connell, a Frontend Developer using React, Next & TypeScript from 🇬🇧 United Kingdom</h3>
 
 - 👨‍💻 All of my projects are available at [https://jazzy-arithmetic-324979.netlify.app](https://jazzy-arithmetic-324979.netlify.app)
 
