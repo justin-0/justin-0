@@ -1,5 +1,6 @@
-## Hi! Welcome to my page 👋
-I'm Justin, a Frontend Developer using React 🇬🇧 <strong> United Kingdom </strong>
+## Hi! Welcome to my page, I'm Justin 👋
+
+I'm Justin O'Connell, a Frontend Developer using React, Next & TypeScript from 🇬🇧 <strong> United Kingdom </strong>
 
 #### Here are some things I code with
 <p>
